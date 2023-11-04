@@ -24,14 +24,14 @@ export const externalLinks: Tlinks = {
     Icon: SiLinkedin,
     url: 'https://www.linkedin.com/',
   },
-  GitHub: { Icon: SiGithub, url: 'https://github.com/tokugawa123' },
+  GitHub: { Icon: SiGithub, url: 'https://github.com/RatPatrick810' },
   Telegram: {
     Icon: SiTelegram,
     url: 'https://t.me/softlight1012',
   },
   Skype: {
     Icon: SiSkype,
-    url: 'live:.cid.20e5247827118507',
+    url: 'https://join.skype.com/invite/y6ztrcOjEO6L',
   },
   Discord: {
     Icon: SiDiscord,
